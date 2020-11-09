@@ -1,2 +1,5 @@
 # marvel-characters-test
-Consulta Api Marvel
+Query Api Marvel Personagens
+commands
+npm i
+yarn start
