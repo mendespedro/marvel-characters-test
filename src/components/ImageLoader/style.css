@@ -1,0 +1,19 @@
+@import '../../css/animations.css';
+
+.image-loader {
+    height: 100%;
+}
+
+.image-loader__placeholder{
+    background-color: var(--primary-dark-color);
+}
+
+.image-loader__img{
+    width: 100%;
+    height: 100%;
+    animation: fadeIn .5s ease;
+}
+
+.hidden {
+    visibility: hidden;
+}
